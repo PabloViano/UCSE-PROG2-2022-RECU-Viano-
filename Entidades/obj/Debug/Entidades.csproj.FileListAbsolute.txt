@@ -1,0 +1,6 @@
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Parcial\RecuperatorioProg2\Entidades\bin\Debug\Entidades.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Parcial\RecuperatorioProg2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Parcial\RecuperatorioProg2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Parcial\RecuperatorioProg2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Parcial\RecuperatorioProg2\Entidades\obj\Debug\Entidades.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Parcial\RecuperatorioProg2\Entidades\obj\Debug\Entidades.pdb
